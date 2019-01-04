@@ -1,4 +1,4 @@
-# leaning-graphql
+# learning-graphql
 
 > I'm learning Graphql :)
 
