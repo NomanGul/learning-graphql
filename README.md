@@ -1,19 +1,6 @@
-# graphql-hello-pakistan
+# leaning-graphql
 
-> Hello Pakistan from graphql and apollo server
-
-## Install
-
-```bash
-git clone https://github.com/NomanGul/graphql-hello-pakistan.git
-```
-
-## Usage
-```bash
-npm install
-node src/index.js
-https://localhost:4000
-```
+> I'm learning Graphql :)
 
 ## License
 
